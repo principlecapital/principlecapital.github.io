@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Principle Capital Partners
-email: your-email@example.com
+email: winfield.ding@principlecp.com
 description: > # this means to ignore newlines until "baseurl:"
   Yet another Jekyll theme. It is designed for business purpose and ported by 
   Melvin Ch'ng.
@@ -22,13 +22,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Company Information
-company_name: Johns, Smith & Associates
-address_line: Via Ludovisi 39-45, Rome, 54267, Italy
-telephone_number: 1.800.245.356
-fax_number: 1.800.245.357
-company_email: hello@LawOffice.org
-google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735933!2d91.837871!3d24.907291700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1404919738144
-
+company_name: Principle Capital Partners Corportaion
+address_line: 200 Consumers Road Unit 702, Toronto, Ontario, Canada M2J 4R4
+telephone_number: 1.416.3204388
+fax_number: 1.888.492.7929
+company_email: winfield.ding@principlecp.com
+google_map: https://www.google.ca/maps/place/200+Consumers+Rd,+North+York,+ON+M2J+4R4/@43.7728576,-79.3333416,17z/data=!3m1!4b1!4m5!3m4!1s0x89d4d25937c4225d:0x3089e8e0ba5a63dd!8m2!3d43.7728537!4d-79.3311529
 # Social Link
 facebook_link: http://www.facebook.com
 twitter_link: http://www.twitter.com
